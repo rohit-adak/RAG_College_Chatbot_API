@@ -76,7 +76,7 @@ Empower your college community with an intelligent chatbot driven by state-of-th
 #### **GUI For the Application** 💻
 
 A Serate project for GUI of the same application via this api is available at 
-[GUI FOR THE APPLICATION (ver. Streamlit)](https://github.com/rohit-adak/college_chatbot)
+[GUI FOR THE APPLICATION (ver. Streamlit)](https://github.com/rohit-adak/rohit-adak-RAG_College_Chatbot_GUI)
 
 *NOTE: Installation of this project is necessary*
 
